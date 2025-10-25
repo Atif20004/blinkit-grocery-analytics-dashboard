@@ -20,5 +20,5 @@ The main objective of this project is to create an interactive Power BI dashboar
 •	What are the sales trends by establishment year and outlet characteristics?
 
 ## Dataset Used
-- <a href=" blinkit-grocery-analytics-dashboard/BlinkIT Grocery Data (2).xlsx at main · Atif20004/blinkit-grocery-analytics-dashboard ">Dataset</a>
+- <a href="https://github.com/Atif20004/blinkit-grocery-analytics-dashboard/blob/main/BlinkIT%20Grocery%20Data%20(2).xlsx">Dataset</a>
 
