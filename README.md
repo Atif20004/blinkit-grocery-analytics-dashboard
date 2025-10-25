@@ -23,10 +23,10 @@ The main objective of this project is to create an interactive Power BI dashboar
 - <a href="https://github.com/Atif20004/blinkit-grocery-analytics-dashboard/blob/main/BlinkIT%20Grocery%20Data%20(2).xlsx">Dataset</a>
 
 ## Key Questions & Expanded KPIs
-Primary KPIs
+### Primary KPIs
 Total Sales — $12.01M across all outlets
 
-### Average Sales — 141 per item
+Average Sales — 141 per item
 
 Total Items — 8,523 unique products
 
