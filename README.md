@@ -22,3 +22,28 @@ The main objective of this project is to create an interactive Power BI dashboar
 ## Dataset Used
 - <a href="https://github.com/Atif20004/blinkit-grocery-analytics-dashboard/blob/main/BlinkIT%20Grocery%20Data%20(2).xlsx">Dataset</a>
 
+## Key Questions & Expanded KPIs
+Primary KPIs
+Total Sales — $12.01M across all outlets
+
+### Average Sales — 141 per item
+
+Total Items — 8,523 unique products
+
+Average Rating — 3.92 customer satisfaction score
+
+### Additional KPIs & Analytical Questions
+Top Performing Item Categories — based on sales volume
+
+Outlet Performance Analysis — sales by size, type, and location tier
+
+Fat Content Preferences — low fat vs regular product performance
+
+Sales Trends — performance by establishment year (2012-2022)
+
+Location Impact — Tier 1, 2, 3 city performance comparison
+
+Product Visibility Analysis — shelf space and item weight impact on sales
+
+Outlet Type Comparison — Supermarket Type1, Type2, Type3, and Grocery Store performance
+
