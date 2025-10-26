@@ -87,7 +87,7 @@ Designed comparative charts for outlet and product analysis
 Applied professional yellow-themed layout matching BlinkIT branding
 
 ## Dashboard interaction
-- <a href="blinkit-grocery-analytics-dashboard/Screenshot 2025-10-25 164948.png at main · Atif20004/blinkit-grocery-analytics-dashboard "> View Dashboard</a>
+- <a href="https://github.com/Atif20004/blinkit-grocery-analytics-dashboard/blob/main/Screenshot%202025-10-25%20164948.png"> View Dashboard</a>
 
 ## Dashboard
 <img width="1319" height="745" alt="Screenshot 2025-10-25 164948" src="https://github.com/user-attachments/assets/fc156317-e15d-412c-a7ab-e563e8afb94b" />
