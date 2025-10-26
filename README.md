@@ -47,3 +47,42 @@ Product Visibility Analysis — shelf space and item weight impact on sales
 
 Outlet Type Comparison — Supermarket Type1, Type2, Type3, and Grocery Store performance
 
+## Project Process
+### 1. Data Understanding
+Analyzed dataset structure and identified key retail metrics
+
+Differentiated product attributes from outlet characteristics
+
+Validated data completeness across items, outlets, and sales records
+
+### 2. Data Cleaning & Transformation (Power Query)
+Standardized item categories and outlet classifications
+
+Created calculated column for Item Fat Content (Low Fat vs Regular)
+
+Ensured data consistency across outlet identifiers and establishment years
+
+Handled missing values and ensured proper data types
+
+#### 3. Data Modeling
+Created a Metrics 2 table containing DAX measures:
+
+total_sales — sum of all sales transactions
+
+Avg_sales — average sales per item
+
+No_of_items — count of unique products
+
+Avg_rating — average customer rating across categories
+
+Relationships: Connected the metrics table to the main BlinkIT Grocery Data table for dynamic calculations.
+
+### 4. Dashboard Design
+Implemented KPI cards for immediate business insights
+
+Created trend visualizations for sales performance over time
+
+Designed comparative charts for outlet and product analysis
+
+Applied professional yellow-themed layout matching BlinkIT branding
+
