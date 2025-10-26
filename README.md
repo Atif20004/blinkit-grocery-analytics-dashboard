@@ -24,7 +24,7 @@ The main objective of this project is to create an interactive Power BI dashboar
 
 ## Key Questions & Expanded KPIs
 ### Primary KPIs
-Total Sales — $12.01M across all outlets
+Total Sales — $1.2M across all outlets
 
 Average Sales — 141 per item
 
