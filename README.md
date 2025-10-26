@@ -86,3 +86,62 @@ Designed comparative charts for outlet and product analysis
 
 Applied professional yellow-themed layout matching BlinkIT branding
 
+## Dashboard interaction
+- <a href="blinkit-grocery-analytics-dashboard/Screenshot 2025-10-25 164948.png at main · Atif20004/blinkit-grocery-analytics-dashboard "> View Dashboard</a>
+
+## Dashboard
+<img width="1319" height="745" alt="Screenshot 2025-10-25 164948" src="https://github.com/user-attachments/assets/fc156317-e15d-412c-a7ab-e563e8afb94b" />
+
+## Dashboard Overview
+### Top KPI Cards
+total_sales — $1.2M 
+
+Avg_sales — 141 average per item
+
+No of Items — 8,523 products analyzed
+
+Avg_rating — 3.92 customer satisfaction
+
+### Filters & Interactivity (Slicers)
+Location Type — filter by city tier classification (All/Tier 1/Tier 2/Tier 3)
+
+Outlet Size — small, medium, high capacity analysis (All sizes available)
+
+Outlet Type — supermarket type comparison (All types available)
+
+Item Type — category-specific performance view (All categories available)
+
+### Visuals Used
+ Line Chart — total_sales by Outlet Establishment Year (showing trend from 2012-2022 with peak at $205K in 2018)
+
+ Pie Chart — Sum of Sales by Outlet Size (Medium: 507.90K, Small: 248.99K, High: 444.79K)
+
+ Donut Chart — Fat by Outlet (Low Fat vs Regular distribution)
+
+ Horizontal Bar Chart — Item Type sales breakdown (showing categories like Fruits and Vegetables, Snack Foods, Household, etc.)
+
+ Stacked Bar Chart — Fat Content analysis across outlet location types
+
+ Summary Table — Outlet Type performance showing total_sales, Avg_sales, No of items, Avg_rating, and Sum of Item Visibility for each outlet type (Supermarket Type1, Grocery Store, Supermarket Type2, Supermarket Type3)
+
+ Pie Chart — Sum of Sales by Outlet Location Type (Tier 3: 472.13K, Tier 2: 393.15K, Tier 1: 336.40K, showing 71.3% concentration)
+
+ ## Key Insights
+•	Total Revenue: $1.2M generated across all BlinkIT outlets
+
+•	Outlet Performance: Tier 3 locations lead with 472.13K in sales, showing strong performance in smaller cities
+
+•	Product Categories: Fruits & Vegetables, Snack Foods, and Household items are top-performing categories
+
+•	Fat Content Preferences: Low Fat products account for $425.36K vs Regular at $776.32K in sales
+
+•	Store Format Success: Supermarket Type1 demonstrates highest sales ($787.55K) followed by Grocery Store ($151.94K), Supermarket Type2 ($131.48K), and Supermarket Type3 ($130.71K)
+
+•	Rating Consistency: Stable 3.9+ ratings across all outlet types indicating consistent customer satisfaction
+
+•	Establishment Trends: Peak sales observed in 2018 outlets, showing maturity curve
+
+•	Medium Outlets Dominate: Medium-sized outlets generate the highest sales (507.90K) compared to small (248.99K) and high-capacity stores (444.79K)
+
+
+
