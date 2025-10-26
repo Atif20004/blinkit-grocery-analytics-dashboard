@@ -64,7 +64,7 @@ Ensured data consistency across outlet identifiers and establishment years
 
 Handled missing values and ensured proper data types
 
-#### 3. Data Modeling
+### 3. Data Modeling
 Created a Metrics 2 table containing DAX measures:
 
 total_sales — sum of all sales transactions
